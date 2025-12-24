@@ -49,7 +49,7 @@ const AboutPage = () => {
                         <p className="text-text-secondary text-lg leading-relaxed mb-6">
                             Founded with a vision to bridge the gap between creative design and technical excellence,
                             WebCores started as a small team of passionate developers and strategists. We saw a need
-                            for a digital agency that didn't just build websites, but built comprehensive digital ecosystems.
+                            for a digital agency that didn't just build websites, but built comprehensive digital ecosystems
                         </p>
                         <p className="text-text-secondary text-lg leading-relaxed">
                             Today, we partner with businesses of all sizes to help them navigate the complex digital landscape.
