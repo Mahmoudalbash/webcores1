@@ -100,7 +100,7 @@ const AboutPage = () => {
                         <h2 className="text-3xl md:text-5xl font-bold text-text-primary mb-4">
                             Why <span className="text-primary">Choose Us?</span>
                         </h2>
-                        <p className="text-text-secondary">What sets us apart from the competition.</p>
+                        <p className="text-text-secondary">What sets us apart from the competition</p>
                     </div>
 
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
